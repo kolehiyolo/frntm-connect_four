@@ -15,10 +15,3 @@
         1.3.5. Player 2's Turn
         1.3.6. Victory
     1.4. Rules
-
-1. I've created the template with the create-react-app command
-2. I've also included now the designs in the important folder
-3. I also did a quick write-up of all the "states" I expect to see in the build
-    3.1. This project does have a Figma prototype but it's for Premium users only (sigh)
-    3.2. I'll make do with just the screenshots
-4. The next step now is the building of the architecture, necessary files and the interconnections
